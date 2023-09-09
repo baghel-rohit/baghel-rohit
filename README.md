@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baghel-rohit
+- 👋 Hi, I’m @rohit baghel
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to enhance myself for web development 
